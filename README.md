@@ -22,6 +22,7 @@ Master merges the pull requests
 ## Delete branch after merge
 * Switch to master: git checkout origin master
 * Pull the changes that have been merged: git pull origin master
+* Delete the branch that has been merged : git branch -d [name_of_your_new_branch]
 
 
 
