@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">PlanMaParty</string>
+    <string name="title_activity_add_event">AddEvent</string>
+    <string name="title_activity_edit_event">EditEvent</string>
 </resources>
