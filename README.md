@@ -13,3 +13,15 @@ From command window
 * git commit -m "commit messsage"
 * git push
 
+## Make a pull request
+* Make pull request following the guidelines from the link: https://help.github.com/en/articles/creating-a-pull-request
+
+## Merging
+Master merges the pull requests
+
+## Delete branch after merge
+* Switch to master: git checkout origin master
+* Pull the changes that have been merged: git pull origin master
+
+
+
